@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
 
         if(this.txtView!=null){
 
-            this.txtView.setText("Hello World");
+            this.txtView.setText("Hello World 222");
 
         }       
 
